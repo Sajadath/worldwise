@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "a38b",
+      "cityName": "Karaj",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-12-25T13:20:11.028Z",
+      "notes": "",
+      "position": {
+        "lat": "35.80862561812985",
+        "lng": "50.897769927978516"
+      }
+    },
+    {
+      "id": "ab28",
+      "cityName": "Muḩ Ḩasan",
+      "country": "Syrian Arab Republic (the)",
+      "emoji": "🇸🇾",
+      "date": "2024-12-25T13:21:50.954Z",
+      "notes": "",
+      "position": {
+        "lat": "35.137879119634185",
+        "lng": "39.99023437500001"
+      }
+    },
+    {
+      "id": "59e7",
+      "cityName": "Idles",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-12-25T13:25:55.177Z",
+      "notes": "",
+      "position": {
+        "lat": "23.885837699862005",
+        "lng": "6.152343750000001"
+      }
+    },
+    {
+      "id": "ab40",
+      "cityName": "Qamdo Shi",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-12-25T13:26:05.470Z",
+      "notes": "",
+      "position": {
+        "lat": "31.203404950917395",
+        "lng": "98.26171875000001"
+      }
+    },
+    {
+      "id": "0361",
+      "cityName": "In Ghar",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-04-16T18:10:25.208Z",
+      "notes": "",
+      "position": {
+        "lat": "26.56887654795065",
+        "lng": "1.47216796875"
+      }
+    }
+  ]
+}
